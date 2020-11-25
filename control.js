@@ -2,7 +2,8 @@ let data = {
   "enable": true
 };
 
-setTimeout(a=>{
+setTimeout(()=>{
+  alert("111111111111111100");
   console.log("-----------------", data);
 }, 2000)
 
