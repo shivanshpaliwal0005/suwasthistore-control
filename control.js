@@ -1,6 +1,6 @@
 (function(){
   let data = {
-    "enable": false
+    "enable": true
   };
 
   console.log("111111111111111100", data.enable);
