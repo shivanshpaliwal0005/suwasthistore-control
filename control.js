@@ -1,6 +1,6 @@
 (function(){
   let data = {
-    "enable": true
+    "enable": false
   };
 
   if(!data.enable){
